@@ -1,5 +1,5 @@
-# Free JavaScript YouTube Search API
- Use YouTube's search API in JavaScript.
+# Free JavaScript YouTube Video API
+ Use YouTube's video API in JavaScript.
 
 ## Code 
 
