@@ -125,4 +125,4 @@ function get_id_of_video(video){
 
 Exemple : `get_id_of_video('https://www.youtube.com/watch?v=jNQXAC9IVRw&ab_channel=jawed')`
 
-Returns : `jNQXAC9IVRw`
+Returns : `'jNQXAC9IVRw'`
